@@ -5,3 +5,9 @@ https://www.alibabacloud.com/free
 - AliPay
 - Bank Card
 - PayPal
+
+# Signup with VOIP?
+True
+
+## Option:
+- Google Voice
