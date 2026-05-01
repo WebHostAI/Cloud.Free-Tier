@@ -1,0 +1,3 @@
+- https://lowendtalk.com/discussion/196698/alternatives-to-oracle-cloud-free-tier-for-students-without-credit-cards
+- https://www.reddit.com/r/selfhosted/comments/1qsjnqq/is_the_oracle_cloud_always_free_tier_impossible/
+- https://www.reddit.com/r/selfhosted/comments/18vxqy3/need_a_free_cloud_vps_with_no_credit_card_required/
