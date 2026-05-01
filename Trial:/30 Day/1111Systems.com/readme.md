@@ -1,0 +1,3 @@
+Ad:
+- on: https://www.google.com/search?q=aws+free
+- Lander: https://1111systems.com/iaas?utm_source=google-search&utm_medium=cpc&utm_campaign=EMEA_EN_BOFU_GSE_NB_Cloud&utm_content=cloud-test-drive&utm_term=cloud%20and%20hosting&gclid=CjwKCAjwntHPBhAaEiwA_Xp6Rtv5iueiR37Kj417_I5hcoRESV_WoQwzkkt9agH4i6oA3FaRSyPjJRoCttEQAvD_BwE&utm_extensionid=&utm_geo=1007080&utm_matchtype=p&utm_placement=&qgad=800573041654&qgterm=cloud%20and%20hosting&gad_source=1&gad_campaignid=20670273029&gbraid=0AAAAApCWK55hZ8TSWo_G68jNyv4baMjFv&gclid=CjwKCAjwntHPBhAaEiwA_Xp6Rtv5iueiR37Kj417_I5hcoRESV_WoQwzkkt9agH4i6oA3FaRSyPjJRoCttEQAvD_BwE
