@@ -1,4 +1,3 @@
 # Cloud.Free-Tier
 
-# Relation:
-## [@UnicornCloud || @UniCloudAI.Goal](https://github.com/Uni-CloudAI/.Org/tree/main/Goal./Free%20Tier#cloudfree-tier)
+# Relation: [@UniCloudAI.Goal](https://github.com/Uni-CloudAI/.Org/blob/main/Goal./Cloud.Free%20Tier/readme.md#cloudfree-tier)
