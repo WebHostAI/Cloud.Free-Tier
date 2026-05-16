@@ -1,0 +1,2 @@
+Ad:
+Lander: https://www.akamai.com/lp/media/5000-credit-offer?promo=sitelin100-02162023&promo_value=100&promo_length=60&utm_source=google&utm_medium=cpc&utm_campaign=f-mc-68058&utm_id=cloud&utm_content=US-EN_NB_CL_PLG_Core&utm_placement=NORAM&gad_source=1&gad_campaignid=22799523080&gbraid=0AAAAADKpC9l0hcuCkFYNuxeyAT31qrpcv&gclid=Cj0KCQjwiJvQBhCYARIsAMjts3IubLNzwpChrJD0btU112hrBMCOuDrUb-7kp6RzXTVz4Pxpq-aj3SoaAgNtEALw_wcB
